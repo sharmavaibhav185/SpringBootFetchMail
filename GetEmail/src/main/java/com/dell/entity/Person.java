@@ -8,7 +8,6 @@ import lombok.Data;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Person {
 	
-	
 	private String url;
 	private String text;
 	
